@@ -25,7 +25,7 @@ export const HeroBanner: React.FC<HeroBannerProps> = ({
       {/* Background Hero with soft overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_dealership_showroom_1791206256371.jpg"
+          src="/images/hero_dealership_showroom_1791206256371.jpg"
           alt="Avtosalon ko'rgazmasi"
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover object-center opacity-35"

@@ -131,9 +131,9 @@ export const CARS_DATA: Car[] = [
     priceUsd: 7900,
     originalPriceUsd: 8400,
     discountPercent: 6,
-    image: '/src/assets/images/car_chevrolet_damas_1791207590027.jpg',
+    image: '/images/car_chevrolet_damas_1791207590027.jpg',
     gallery: [
-      '/src/assets/images/car_chevrolet_damas_1791207590027.jpg'
+      '/images/car_chevrolet_damas_1791207590027.jpg'
     ],
     colors: [
       { name: 'Oq toza klassik', hex: '#FFFFFF', classBg: 'bg-white' },
@@ -177,9 +177,9 @@ export const CARS_DATA: Car[] = [
     priceUsd: 12900,
     originalPriceUsd: 13600,
     discountPercent: 5,
-    image: '/src/assets/images/car_gentra_lacetti_1791206275293.jpg',
+    image: '/images/car_gentra_lacetti_1791206275293.jpg',
     gallery: [
-      '/src/assets/images/car_gentra_lacetti_1791206275293.jpg'
+      '/images/car_gentra_lacetti_1791206275293.jpg'
     ],
     colors: [
       { name: 'Qora metallik (GBO)', hex: '#0B0C0E', classBg: 'bg-zinc-950' },
@@ -223,9 +223,9 @@ export const CARS_DATA: Car[] = [
     priceUsd: 11400,
     originalPriceUsd: 12100,
     discountPercent: 6,
-    image: '/src/assets/images/car_chevrolet_cobalt_1791207506180.jpg',
+    image: '/images/car_chevrolet_cobalt_1791207506180.jpg',
     gallery: [
-      '/src/assets/images/car_chevrolet_cobalt_1791207506180.jpg'
+      '/images/car_chevrolet_cobalt_1791207506180.jpg'
     ],
     colors: [
       { name: 'Oq marvarid (GAZ)', hex: '#FFFFFF', classBg: 'bg-white' },
@@ -269,9 +269,9 @@ export const CARS_DATA: Car[] = [
     priceUsd: 18900,
     originalPriceUsd: 19900,
     discountPercent: 5,
-    image: '/src/assets/images/car_chevrolet_tracker_1791207519659.jpg',
+    image: '/images/car_chevrolet_tracker_1791207519659.jpg',
     gallery: [
-      '/src/assets/images/car_chevrolet_tracker_1791207519659.jpg'
+      '/images/car_chevrolet_tracker_1791207519659.jpg'
     ],
     colors: [
       { name: 'Yorqin Qizil (Redline)', hex: '#DC2626', classBg: 'bg-red-600' },
@@ -315,9 +315,9 @@ export const CARS_DATA: Car[] = [
     priceUsd: 9600,
     originalPriceUsd: 10200,
     discountPercent: 6,
-    image: '/src/assets/images/car_chevrolet_lacetti_1791207537120.jpg',
+    image: '/images/car_chevrolet_lacetti_1791207537120.jpg',
     gallery: [
-      '/src/assets/images/car_chevrolet_lacetti_1791207537120.jpg'
+      '/images/car_chevrolet_lacetti_1791207537120.jpg'
     ],
     colors: [
       { name: 'Kumushrang metallik', hex: '#CBD5E1', classBg: 'bg-slate-300' },
@@ -359,9 +359,9 @@ export const CARS_DATA: Car[] = [
     priceUsd: 28900,
     originalPriceUsd: 30500,
     discountPercent: 5,
-    image: '/src/assets/images/car_chevrolet_malibu_1791207569703.jpg',
+    image: '/images/car_chevrolet_malibu_1791207569703.jpg',
     gallery: [
-      '/src/assets/images/car_chevrolet_malibu_1791207569703.jpg'
+      '/images/car_chevrolet_malibu_1791207569703.jpg'
     ],
     colors: [
       { name: 'Black Shadow (Qora)', hex: '#0F172A', classBg: 'bg-slate-900' },
@@ -403,9 +403,9 @@ export const CARS_DATA: Car[] = [
     priceUsd: 119000,
     originalPriceUsd: 128000,
     discountPercent: 7,
-    image: '/src/assets/images/car_bmw_m5_cs_1791206291939.jpg',
+    image: '/images/car_bmw_m5_cs_1791206291939.jpg',
     gallery: [
-      '/src/assets/images/car_bmw_m5_cs_1791206291939.jpg'
+      '/images/car_bmw_m5_cs_1791206291939.jpg'
     ],
     colors: [
       { name: 'Frozen Deep Grey', hex: '#1C1D21', classBg: 'bg-zinc-800' },
@@ -449,9 +449,9 @@ export const CARS_DATA: Car[] = [
     priceUsd: 189000,
     originalPriceUsd: 199000,
     discountPercent: 5,
-    image: '/src/assets/images/car_mercedes_g63_1791206320015.jpg',
+    image: '/images/car_mercedes_g63_1791206320015.jpg',
     gallery: [
-      '/src/assets/images/car_mercedes_g63_1791206320015.jpg'
+      '/images/car_mercedes_g63_1791206320015.jpg'
     ],
     colors: [
       { name: 'Obsidian Black Metallic', hex: '#0E0E10', classBg: 'bg-zinc-950' },
@@ -494,9 +494,9 @@ export const CARS_DATA: Car[] = [
     priceUsd: 59000,
     originalPriceUsd: 63000,
     discountPercent: 6,
-    image: '/src/assets/images/car_toyota_supra_1791206306729.jpg',
+    image: '/images/car_toyota_supra_1791206306729.jpg',
     gallery: [
-      '/src/assets/images/car_toyota_supra_1791206306729.jpg'
+      '/images/car_toyota_supra_1791206306729.jpg'
     ],
     colors: [
       { name: 'Prominence Red (Qizil)', hex: '#DC2626', classBg: 'bg-red-600' },
@@ -539,9 +539,9 @@ export const CARS_DATA: Car[] = [
     priceUsd: 112000,
     originalPriceUsd: 119000,
     discountPercent: 6,
-    image: '/src/assets/images/car_nissan_gtr_nismo_1791207551599.jpg',
+    image: '/images/car_nissan_gtr_nismo_1791207551599.jpg',
     gallery: [
-      '/src/assets/images/car_nissan_gtr_nismo_1791207551599.jpg'
+      '/images/car_nissan_gtr_nismo_1791207551599.jpg'
     ],
     colors: [
       { name: 'Nismo Stealth Grey', hex: '#3F3F46', classBg: 'bg-zinc-700' },

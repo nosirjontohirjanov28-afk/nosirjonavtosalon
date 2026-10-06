@@ -1,0 +1,6 @@
+{
+  "name": "AvtoBozor UZ - Mashinalar Savdosi",
+  "description": "O'zbekiston va xorijiy avtomobillar savdosi ilovasi: Lacetti, Cobalt, Gentra, Tracker, BMW, Mercedes, Supra va Nissan modellari, skitkalar, xarid savatchasi hamda Payme, Click va naqd to'lov tizimlari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
